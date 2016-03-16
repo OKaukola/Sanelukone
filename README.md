@@ -6,3 +6,4 @@ Ohjelma äänittää puheen nauhoitus painikkeella ja toistaa toisto painikkeell
 
 Ohjelmalle pitää antaa käyttöoikeudet mikrofoniin ja tallennustilan käyttöön. 
 Ohjelma tallentaa äänitiedoston .3gp muodossa muistikortille
+Ohjelma tutorialista poiketen käännetty suomeksi ja vaihdettu logo.
